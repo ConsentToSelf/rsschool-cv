@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://consenttoself.github.io/rsschool-cv/cv
+## https://consenttoself.github.io/rsschool-cv
