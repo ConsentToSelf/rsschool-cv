@@ -15,11 +15,18 @@ body {
   );
   color: white;
 }
+ul {
+  list-style-type: none;
+}
 .container {
   max-width: 600px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 20px 20px;
 }
+.english,
+.education,
+.projects,
+.codewars,
 .skills,
 .myself,
 .contacts,
@@ -27,4 +34,25 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   border-bottom: 3px solid rgb(95, 88, 88);
+}
+.english {
+  border-bottom: none;
+}
+.english__title,
+.education__title,
+.projects__title,
+.codewars__title,
+.skills__title,
+.myself__title,
+.contacts__title,
+.about__title {
+  margin-bottom: 10px;
+}
+.about {
+  display: flex;
+}
+.avatar {
+  border-radius: 100px;
+  width: 16%;
+  height: 100%;
 }
