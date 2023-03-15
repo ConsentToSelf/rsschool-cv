@@ -25,3 +25,13 @@ _**My name is Sultan. I am 21 years old. I've been interested in development sin
     1. Store Furniture - https://github.com/ConsentToSelf/mobiliya;
     2. Project Game - https://github.com/ConsentToSelf/project-game
     3. Css Bayan - https://github.com/ConsentToSelf/cssBayan
+
+## Education
+
+    1. Kyrgyz Turkish Manas University Faculty Myo 2019-2022;
+    2. Kyrgyz State Technical University Faculty of Business Informatics 2022 and now;
+    3. "Web-developer" Udemy Course by Ivan Petrichenko
+
+## English Pre-intermediate level
+
+**There was language practice while studying at the Talking Club. Not as extensive, now I'm going to improve it too.**
